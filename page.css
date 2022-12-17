@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-color: #151515;
+    color: #ffff;
+}
+
+div .logo
+{
+    width: 80px;
+    border-radius: 12px 10px 10px 10px;
+    
+}
+.title1
+{
+    padding: 20px;
+    
+}
+.contenair
+{
+    position: fixed;
+    background: none;
+    top: 40px;
+}
+
+.contenair1
+{
+    display: flex;
+    position: fixed;
+    
+}
+
+nav ul
+{
+    display: flex;
+}
+
+.navbar
+{
+    display: flex;
+    padding-left: 80vw;
+}
+
+nav ul li 
+{
+    list-style: none;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.btn1
+{
+    background-color: rgb(69, 69, 241);
+}
+
+.contenair2
+{
+    padding-top: 15%;
+    margin-left: 10%;
+}
+
+.title2
+{
+    font-size: 60px;
+    padding: 20px;
+}
+
+.para1
+{
+    font-size: 20px;
+    padding: 50px;
+    margin-left: 10%;
+    background: none;
+    height: 30px;
+    width: 60vh;
+    
+}
+
+.btn2
+{
+    text-align: center;
+}
+
+.btn3
+{
+    color: #ffff;
+    background-color: blue;
+    padding-right: 100px;
+}
+
+.img6
+{
+    display: flex;
+
+}
+
+.images
+{
+    width: 150px;
+    padding: 35px;
+    
+}
+
+.para2
+{
+    text-align: center;
+    padding-right: 100px;
+}
+
+.contenair3
+{
+    padding: 80px;
+}
+
+.imgs3
+{
+    display: flex;
+}
+
+.images1
+{
+    padding: 20px;
+    width: 400px;
+    height: 250px;
+}
+
+.contenair3
+{
+    
+}
+.contenair4
+{
+    display: flex;
+}
+
+.photo4
+{
+    width: 500px;
+    height: 700px;
+    padding: 50px;
+}
+
+.contenair5
+{
+    padding-top: 90px;
+}
+
+.icone
+{
+    
+}
+
+.title4
+{
+    position: absolute;
+    background-color: none;
+    font-size: 50px;
+    width: 60px;
+    padding-top: 400px;
+}
+
+.fphoto
+{
+    width: 140vh;
+    height: 80vh;
+    padding-left: 20%;
+}
+
